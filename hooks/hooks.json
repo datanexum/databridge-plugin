@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "load_csv|smart_import_csv|onboard_data",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "A CSV was just loaded. Briefly note the file path and suggest running /databridge:profile if data quality hasn't been checked yet. Keep it to one sentence."
+          }
+        ]
+      }
+    ]
+  }
+}

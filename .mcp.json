@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "databridge": {
+      "command": "python",
+      "args": ["run_server.py", "--full"],
+      "cwd": "${CLAUDE_PLUGIN_ROOT}/../",
+      "env": {
+        "DATABRIDGE_TOOL_MODE": "full"
+      }
+    }
+  }
+}

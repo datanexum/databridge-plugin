@@ -1,0 +1,12 @@
+{
+  "name": "databridge",
+  "description": "Data reconciliation, hierarchy management, and financial modeling. Upload a Chart of Accounts → get production-ready hierarchies, dbt models, and data marts.",
+  "version": "0.44.0",
+  "author": {
+    "name": "DataBridge AI",
+    "url": "https://github.com/datanexum"
+  },
+  "repository": "https://github.com/datanexum/databridge-plugin",
+  "license": "MIT",
+  "keywords": ["data", "reconciliation", "finance", "hierarchy", "dbt", "snowflake", "blce", "profiling"]
+}
