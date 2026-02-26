@@ -60,9 +60,9 @@ Run `/databridge:setup` after installation to verify everything is configured.
 
 ## MCP Server
 
-The plugin configures a DataBridge MCP server with **234 CE tools** (up to 301 with Pro/Enterprise) in full mode. The server starts automatically when Claude Code loads the plugin.
+The plugin configures a DataBridge MCP server with **287 CE tools** (up to 344 with Pro/Enterprise) in full mode. The server starts automatically when Claude Code loads the plugin.
 
-Tools are organized across 27 categories including:
+Tools are organized across 43 categories including:
 - Data profiling and quality
 - Reconciliation (hash, fuzzy, diff)
 - Hierarchy management
