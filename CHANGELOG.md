@@ -3,8 +3,9 @@
 ## 0.47.0 (2026-02-28)
 
 ### Changed
+- Server-side: 5 new evaluation tools — falsification search, property checks, failure clustering, failure rate estimation, release dashboard (Build 3 validation harness)
 - Server-side: planner_manage tool gains 3 new actions (decision_trace, bandit_stats, record_outcome) for online decision-making — VOI clarifications, Thompson Sampling strategy selection, Monte Carlo rollout planning
-- Tool count unchanged: 297 CE (362 Enterprise)
+- Tool count: 297 → 302 CE (362 → 367 Enterprise)
 
 ## 0.44.0 (2026-02-24)
 
