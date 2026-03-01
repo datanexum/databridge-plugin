@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.48.0 (2026-03-01)
+
+### Added
+- Server-side: Build 5 Closed-Loop Intelligence — active learning, feedback loop, Platt-scaled calibration, health dashboard
+- 2 new MCP tools: `evaluation_feedback_loop`, `evaluation_health_dashboard`
+- 4 new planner_manage actions: `active_learning_rank`, `calibration_status`, `calibration_recalibrate`, `health_dashboard`
+- Tool count: 302 → 306 CE (367 → 371 Enterprise)
+
 ## 0.47.0 (2026-02-28)
 
 ### Changed
