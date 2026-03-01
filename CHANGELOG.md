@@ -3,10 +3,11 @@
 ## 0.48.0 (2026-03-01)
 
 ### Added
+- Server-side: Build 6 Enterprise Intelligence Layer — cost-aware optimizer, governance dashboard, detection rule optimizer, lineage impact analyzer, semantic auto-discovery, pattern pre-training, decision debate engine
+- 11 new MCP tools, 3 new planner_manage actions (14→17 total)
 - Server-side: Build 5 Closed-Loop Intelligence — active learning, feedback loop, Platt-scaled calibration, health dashboard
-- 2 new MCP tools: `evaluation_feedback_loop`, `evaluation_health_dashboard`
-- 4 new planner_manage actions: `active_learning_rank`, `calibration_status`, `calibration_recalibrate`, `health_dashboard`
-- Tool count: 302 → 306 CE (367 → 371 Enterprise)
+- IP protection expansion: Docker source stripping 36→183 modules, Cython compilation 24→46 targets
+- Tool count: 302 → 317 CE (367 → 382 Enterprise)
 
 ## 0.47.0 (2026-02-28)
 
