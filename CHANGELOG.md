@@ -7,7 +7,7 @@
 - 11 new MCP tools, 3 new planner_manage actions (14→17 total)
 - Server-side: Build 5 Closed-Loop Intelligence — active learning, feedback loop, Platt-scaled calibration, health dashboard
 - IP protection expansion: Docker source stripping 36→183 modules, Cython compilation 24→46 targets
-- Tool count: 302 → 317 CE (367 → 382 Enterprise)
+- Tool count: 302 → 316 CE (367 → 381 Enterprise)
 
 ## 0.47.0 (2026-02-28)
 
