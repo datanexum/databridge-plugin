@@ -1,8 +1,10 @@
 # Changelog
 
-## 0.48.0 (2026-03-01)
+## 0.48.0 (2026-03-02)
 
 ### Added
+- DataShield: deterministic client keys via HKDF-SHA256 — same client_id always produces the same encryption key, no keystore retrieval needed
+- DataShield: semantic-preserving scrambling — column-level consistent numeric scaling and date shifting preserves ordering, ratios, gaps, and trends
 - Server-side: Build 6 Enterprise Intelligence Layer — cost-aware optimizer, governance dashboard, detection rule optimizer, lineage impact analyzer, semantic auto-discovery, pattern pre-training, decision debate engine
 - 11 new MCP tools, 3 new planner_manage actions (14→17 total)
 - Server-side: Build 5 Closed-Loop Intelligence — active learning, feedback loop, Platt-scaled calibration, health dashboard
