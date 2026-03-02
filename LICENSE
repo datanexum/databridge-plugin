@@ -1,21 +1,88 @@
-MIT License
+DataBridge Plugin for Claude Code — Proprietary Software License Agreement
 
-Copyright (c) 2024-2026 DataBridge AI
+Copyright (c) 2024-2026 Datanexum Consulting LLC. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT — READ CAREFULLY: This DataBridge Plugin License Agreement
+("Agreement") is a legal agreement between you (either an individual or a single
+entity) and Datanexum Consulting LLC for the DataBridge Plugin for Claude Code,
+which includes skills, agents, hooks, scripts, and all associated materials
+("Software").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND
+BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS
+AGREEMENT, DO NOT INSTALL OR USE THE SOFTWARE.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. OWNERSHIP
+
+The Software is the exclusive property of Datanexum Consulting LLC. All right,
+title, and interest, including all intellectual property rights, remain with
+Datanexum Consulting LLC.
+
+2. GRANT OF LICENSE
+
+Subject to the terms of this Agreement, Datanexum Consulting LLC grants you a
+limited, non-exclusive, non-transferable, non-sublicensable, revocable license
+to:
+
+(a) Install and use the Software with Claude Code for internal business purposes;
+(b) Make one copy of the Software for backup purposes.
+
+3. RESTRICTIONS — NO MODIFICATION WITHOUT WRITTEN CONSENT
+
+THE SOFTWARE SHALL NOT BE MODIFIED, ALTERED, ADAPTED, TRANSLATED, OR OTHERWISE
+CHANGED WITHOUT THE PRIOR WRITTEN AND EXPLICIT APPROVAL OF DATANEXUM
+CONSULTING LLC.
+
+You may NOT:
+
+(a) Modify, translate, adapt, or create derivative works based on the Software
+    without prior written consent from Datanexum Consulting LLC;
+(b) Distribute, sublicense, rent, lease, or lend the Software to third parties;
+(c) Reverse engineer, disassemble, decompile, or otherwise attempt to derive
+    the source code of the Software;
+(d) Remove any proprietary notices, labels, or marks on the Software;
+(e) Use the Software to develop a competing product;
+(f) Circumvent, disable, or interfere with any security or license validation
+    mechanisms in the Software.
+
+4. INTELLECTUAL PROPERTY NOTICE
+
+"DataBridge AI," "DataBridge," "Datanexum," and all associated logos and trade
+names are trademarks of Datanexum Consulting LLC and may not be used without
+prior written consent.
+
+5. TERM AND TERMINATION
+
+This Agreement is effective until terminated. Your rights under this Agreement
+will terminate automatically without notice if you fail to comply with any of
+its terms. Upon termination, you must destroy all copies of the Software.
+
+6. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL DATANEXUM CONSULTING LLC BE LIABLE FOR ANY SPECIAL, INCIDENTAL,
+INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR
+INABILITY TO USE THE SOFTWARE.
+
+8. GOVERNING LAW
+
+This Agreement shall be governed by the laws of the State of Delaware, United
+States, without regard to its conflict of law provisions.
+
+9. CONTACT
+
+For questions about licensing, contact:
+- Legal: legal@datanexum.com
+- Sales: sales@databridge.ai
+- Support: support@databridge.ai
+- Web: https://databridge.ai
+
+By using the DataBridge Plugin, you acknowledge that you have read this
+Agreement, understand it, and agree to be bound by its terms and conditions.
+
+Copyright (c) 2024-2026 Datanexum Consulting LLC. All Rights Reserved.
