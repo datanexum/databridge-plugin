@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.48.1 (2026-03-02)
+
+### Fixed
+- Server-side: Docker production build fixes — sourceless `.pyc` imports, Celery worker attribute, Dockerfile.mcp dependencies
+- Server-side: Release CI pipeline rewritten — V3/V4 → single MCP image build (multi-arch)
+- Server-side: Sub-package versions unified to 0.48.1
+- Docker image: `ghcr.io/datanexum/databridge-mcp:0.48.1`
+
 ## 0.48.0 (2026-03-02)
 
 ### Added
