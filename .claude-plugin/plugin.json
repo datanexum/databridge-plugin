@@ -1,0 +1,16 @@
+{
+  "name": "databridge",
+  "description": "Data operations for analysts — load files, run SQL instantly, profile quality, reconcile sources, extract PDF tables, and classify datasets. No database required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "DataBridge AI by DataNexum",
+    "url": "https://github.com/datanexum"
+  },
+  "repository": "https://github.com/datanexum/databridge-plugin",
+  "homepage": "https://databridge.dataamplifier.io",
+  "license": "MIT",
+  "keywords": [
+    "data", "sql", "duckdb", "csv", "profiling", "quality",
+    "reconciliation", "pdf-extraction", "analytics", "data-engineering"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "databridge": {
+      "command": "python",
+      "args": ["-m", "databridge.server", "--slim"],
+      "env": {
+        "DATABRIDGE_TOOL_MODE": "slim"
+      }
+    }
+  }
+}
