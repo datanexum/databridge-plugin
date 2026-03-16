@@ -124,13 +124,13 @@ databridge-plugin/
 │   └── upgrade.md            # /databridge:upgrade
 ├── scripts/
 │   └── check-deps.sh         # Dependency checker
-├── LICENSE                   # Proprietary
+├── LICENSE                   # MIT
 └── README.md
 ```
 
 ## License
 
-Proprietary -- Copyright 2024-2026 Datanexum Consulting LLC. See [LICENSE](LICENSE).
+MIT -- See [LICENSE](LICENSE).
 
 ## Links
 
