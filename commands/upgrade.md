@@ -23,14 +23,14 @@ What you have now:
 
 Everything in Free, plus:
 - **KB-Grounded Anomaly Detection** — Scan data for fraud, duplicates, ghost vendors, Benford's Law violations, threshold gaming. Findings are traced to documented rules, not just statistics. Includes feedback loop that learns from your confirmations.
-- **28 SDK Workflows** — Pre-built multi-step pipelines for fraud detection, DQ exceptions, data cleaning, reconciliation, document processing, hierarchy building, forensics, M&A synergy analysis, and more.
+- **25 SDK Workflows** — Pre-built multi-step pipelines for fraud detection, DQ exceptions, data cleaning, reconciliation, document processing, hierarchy building, forensics, M&A synergy analysis, and more.
 - **Snowflake DDL Compilation** — Compile any workflow into deployable Dynamic Tables, Tasks, Stored Procedures, and Masking Policies.
 - **dbt Project Generation** — Discover data models and generate complete dbt projects with staging, intermediate, and mart layers.
-- **BLCE Engine (87 tools)** — Extract business logic from SQL queries, Excel formulas, Python scripts, and DAX expressions into normalized Kimball models.
+- **BLCE Engine (84 tools)** — Extract business logic from SQL queries, Excel formulas, Python scripts, and DAX expressions into normalized Kimball models.
 - **Multi-Level Hierarchy Builder** — Create financial hierarchies up to 15 levels with source mappings, calculation formulas, and deployment to Snowflake.
 - **Knowledge Graph** — Search institutional knowledge with semantic queries, trust scoring, and evidence citations.
 - **3 Autonomous Agents** — Data quality auditor, full reconciliation lifecycle, and financial modeler that work end-to-end with minimal supervision.
-- **Full Gateway Access** — 387 tools across 50 domains including lineage, governance, pattern abstraction, schema matching, and more.
+- **Full Gateway Access** — 394 tools across 68 domains including lineage, governance, pattern abstraction, schema matching, and more.
 
 ## DataBridge Enterprise — $199/month
 

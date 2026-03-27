@@ -90,7 +90,7 @@ The free plugin covers core data operations. DataBridge PRO unlocks:
 - BLCE engine (84 tools) for business logic extraction
 - Multi-level hierarchy builder with Snowflake deployment
 - Knowledge graph with semantic search
-- 3 autonomous agents + full gateway access (325+ tools across 47 domains)
+- 3 autonomous agents + full gateway access (340+ tools across 68 domains)
 
 Run `/databridge:upgrade` for details, or visit https://databridge.dataamplifier.io
 
