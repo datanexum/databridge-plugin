@@ -85,12 +85,12 @@ These tools are available through the DataBridge MCP server:
 The free plugin covers core data operations. DataBridge PRO unlocks:
 
 - KB-grounded anomaly detection (fraud, duplicates, Benford's Law)
-- 25 SDK workflows (fraud detection, data cleaning, M&A synergy, and more)
+- 27 SDK workflows (fraud detection, data cleaning, M&A synergy, and more)
 - Snowflake DDL compilation and dbt project generation
 - BLCE engine (84 tools) for business logic extraction
 - Multi-level hierarchy builder with Snowflake deployment
 - Knowledge graph with semantic search
-- 3 autonomous agents + full gateway access (340+ tools across 68 domains)
+- 3 autonomous agents + full gateway access (336+ tools across 68 domains)
 
 Run `/databridge:upgrade` for details, or visit https://databridge.dataamplifier.io
 
